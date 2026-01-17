@@ -1,0 +1,114 @@
+{
+  "house": {
+    "id": 1
+  },
+  "floors": [
+    {
+      "level": 0
+    },
+    {
+      "level": 1
+    },
+    {
+      "level": 2
+    }
+  ],
+  "rooms": [
+    {
+      "floor": 0,
+      "name": "kitchen",
+      "windows": 2,
+      "devices": ["FRIDGE", "STOVE", "MICROWAVE", "FEEDER", "WASHING_MACHINE"]
+    },
+    {
+      "floor": 0,
+      "name": "living room",
+      "windows": 3,
+      "devices": ["TV", "PC", "FEEDER"]
+    },
+    {
+      "floor": 1,
+      "name": "master bedroom",
+      "windows": 2,
+      "devices": ["FEEDER", "TV"]
+    },
+    {
+      "floor": 1,
+      "name": "children's bedroom",
+      "windows": 2,
+      "devices": ["PC", "FEEDER"]
+    },
+    {
+      "floor": 2,
+      "name": "bathroom",
+      "windows": 1,
+      "devices": ["WASHING_MACHINE", "DRIER"]
+    },
+    {
+      "floor": 2,
+      "name": "study",
+      "windows": 1,
+      "devices": ["PC", "FEEDER"]
+    }
+  ],
+  "people": [
+    {
+      "room": "master bedroom",
+      "name": "Homer",
+      "adult": "yes"
+    },
+    {
+      "room": "master bedroom",
+      "name": "Marge",
+      "adult": "yes"
+    },
+    {
+      "room": "children's bedroom",
+      "name": "Bart",
+      "adult": "no"
+    },
+    {
+      "room": "children's bedroom",
+      "name": "Lisa",
+      "adult": "no"
+    },
+    {
+      "room": "living room",
+      "name": "Maggie",
+      "adult": "no"
+    },
+    {
+      "room": "study",
+      "name": "Abe",
+      "adult": "yes"
+    }
+  ],
+  "pets": [
+    {
+      "room": "kitchen",
+      "name": "Snowball",
+      "type": "CAT"
+    },
+    {
+      "room": "living room",
+      "name": "Santa's Little Helper",
+      "type": "DOG"
+    },
+    {
+      "room": "children's bedroom",
+      "name": "Plopper",
+      "type": "CAT"
+    }
+  ],
+  "equipment": [
+    {
+      "type": "bike"
+    },
+    {
+      "type": "bike"
+    },
+    {
+      "type": "skateboard"
+    }
+  ]
+}

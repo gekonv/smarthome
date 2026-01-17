@@ -1,0 +1,457 @@
+Activities
+--------------------------------
+Pepa wanted to use PC 2, but its not in this room 
+Pepa moving to sleeping room
+Pepa turned off PC 2
+Standa riding skateboard
+Eva wanted to use PC 0, but its not in this room 
+Eva moving to living room
+Eva turned idle PC 0
+Matěj riding bike
+Standa wanted to use FEEDER 0, but its not in this room 
+Standa moving to kitchen
+Standa used FEEDER 0
+Franta riding bike
+Standa wanted to use TV 1, but its not in this room 
+Standa moving to playing room
+Standa turned off TV 1
+Standa riding bike
+Eva wanted to use PC 1, but its not in this room 
+Eva moving to sleeping room
+Eva used PC 1
+Pepa riding bike
+Pepa wanted to use MICROWAVE 1, but its not in this room 
+Pepa moving to storage room
+Pepa turned off MICROWAVE 1
+Eva riding bike
+Eva wanted to use DRIER 2, but its not in this room 
+Eva moving to storage room
+Eva used DRIER 2
+Eva riding bike
+Pepa wanted to use FEEDER 0, but its not in this room 
+Pepa moving to kitchen
+Pepa used FEEDER 0
+Eva riding bike
+Franta wanted to use WASHING_MACHINE 1, but its not in this room 
+Franta moving to storage room
+Franta turned idle WASHING_MACHINE 1
+Standa riding skateboard
+Franta wanted to use FEEDER 4, but its not in this room 
+Franta moving to sleeping room
+Franta turned idle FEEDER 4
+Matěj riding bike
+Standa wanted to use FEEDER 2, but its not in this room 
+Standa moving to living room
+Standa used FEEDER 2
+Matěj riding skateboard
+Standa used PC 0
+Franta riding bike
+Franta wanted to use PC 3, but its not in this room 
+Franta moving to playing room
+Franta turned idle PC 3
+Matěj riding skateboard
+Franta used PC 3
+Franta riding bike
+Eva wanted to use WASHING_MACHINE 0, but its not in this room 
+Eva moving to kitchen
+Eva turned off WASHING_MACHINE 0
+Pepa riding skateboard
+Pepa wanted to use TV 1, but its not in this room 
+Pepa moving to playing room
+Pepa used TV 1
+Karel riding skateboard
+Pepa turned idle PC 3
+Standa riding bike
+Eva wanted to use PC 0, but its not in this room 
+Eva moving to living room
+Eva used PC 0
+Pepa riding bike
+Pepa wanted to use WASHING_MACHINE 1, but its not in this room 
+Pepa moving to storage room
+Pepa turned off WASHING_MACHINE 1
+Franta riding bike
+Eva wanted to use MICROWAVE 0, but its not in this room 
+Eva moving to kitchen 1
+Eva turned off MICROWAVE 0
+Standa riding bike
+Matěj wanted to use FEEDER 4, but its not in this room 
+Matěj moving to sleeping room
+Matěj turned idle FEEDER 4
+Eva riding bike
+Standa wanted to use MICROWAVE 0, but its not in this room 
+Standa moving to kitchen 1
+Standa turned idle MICROWAVE 0
+Pepa riding bike
+Franta wanted to use FEEDER 2, but its not in this room 
+Franta moving to living room
+Franta used FEEDER 2
+Pepa riding skateboard
+Matěj wanted to use MICROWAVE 1, but its not in this room 
+Matěj moving to storage room
+Matěj turned off MICROWAVE 1
+Standa riding bike
+Franta wanted to use MICROWAVE 1, but its not in this room 
+Franta moving to storage room
+Franta turned idle MICROWAVE 1
+Pepa riding bike
+Karel wanted to use DRIER 0, but its not in this room 
+Karel moving to kitchen 1
+Karel used DRIER 0
+Franta riding skateboard
+Standa wanted to use FEEDER 1, but its not in this room 
+Standa moving to kitchen
+Standa turned idle FEEDER 1
+Eva riding bike
+Pepa wanted to use PC 3, but its not in this room 
+Pepa moving to playing room
+Pepa used PC 3
+Karel riding skateboard
+Eva wanted to use DRIER 2, but its not in this room 
+Eva moving to storage room
+Eva turned off DRIER 2
+Pepa riding skateboard
+Eva used WASHING_MACHINE 1
+Pepa riding bike
+Pepa turned off TV 1
+Eva riding bike
+Franta wanted to use PC 0, but its not in this room 
+Franta moving to living room
+Franta turned idle PC 0
+Pepa riding bike
+Eva wanted to use PC 3, but its not in this room 
+Eva moving to playing room
+Eva used PC 3
+Matěj riding bike
+Eva wanted to use DRIER 0, but its not in this room 
+Eva moving to kitchen 1
+Eva turned off DRIER 0
+Pepa riding bike
+Franta wanted to use FEEDER 0, but its not in this room 
+Franta moving to kitchen
+Franta turned idle FEEDER 0
+Karel riding bike
+Karel wanted to use DRIER 2, but its not in this room 
+Karel moving to storage room
+Karel turned idle DRIER 2
+Standa riding bike
+Karel wanted to use DRIER 1, but its not in this room 
+Karel moving to playing room
+Karel used DRIER 1
+Standa riding skateboard
+Karel wanted to use WASHING_MACHINE 1, but its not in this room 
+Karel moving to storage room
+Karel turned idle WASHING_MACHINE 1
+Pepa riding bike
+Standa wanted to use FEEDER 2, but its not in this room 
+Standa moving to living room
+Standa used FEEDER 2
+Standa riding bike
+Standa wanted to use MICROWAVE 0, but its not in this room 
+Standa moving to kitchen 1
+Standa turned off MICROWAVE 0
+Matěj riding skateboard
+Franta wanted to use PC 1, but its not in this room 
+Franta moving to sleeping room
+Franta turned off PC 1
+Eva riding skateboard
+Eva used TV 0
+Karel riding bike
+Matěj wanted to use PC 3, but its not in this room 
+Matěj moving to playing room
+Matěj turned idle PC 3
+Karel riding bike
+Matěj turned off DRIER 1
+Standa riding skateboard
+Pepa wanted to use DRIER 0, but its not in this room 
+Pepa moving to kitchen 1
+Pepa turned off DRIER 0
+Karel riding skateboard
+Standa turned idle DRIER 0
+Eva riding bike
+Eva wanted to use FEEDER 2, but its not in this room 
+Eva moving to living room
+Eva turned off FEEDER 2
+Standa riding skateboard
+Matěj wanted to use FEEDER 4, but its not in this room 
+Matěj moving to sleeping room
+Matěj used FEEDER 4
+Karel riding bike
+Pepa wanted to use FRIDGE 0, but its not in this room 
+Pepa moving to kitchen
+Pepa used FRIDGE 0
+Eva riding bike
+Eva wanted to use WASHING_MACHINE 0, but its not in this room 
+Eva moving to kitchen
+Eva turned idle WASHING_MACHINE 0
+Matěj riding skateboard
+Franta wanted to use DRIER 0, but its not in this room 
+Franta moving to kitchen 1
+Franta used DRIER 0
+Karel riding bike
+Matěj wanted to use PC 3, but its not in this room 
+Matěj moving to playing room
+Matěj turned idle PC 3
+Matěj riding bike
+Eva wanted to use FEEDER 3, but its not in this room 
+Eva moving to kitchen 1
+Eva turned off FEEDER 3
+Pepa riding bike
+Matěj wanted to use FEEDER 0, but its not in this room 
+Matěj moving to kitchen
+Matěj used FEEDER 0
+Standa riding bike
+Standa wanted to use DRIER 2, but its not in this room 
+Standa moving to storage room
+Standa used DRIER 2
+Pepa riding bike
+Matěj wanted to use DRIER 2, but its not in this room 
+Matěj moving to storage room
+Matěj used DRIER 2
+Franta riding bike
+Franta wanted to use FEEDER 0, but its not in this room 
+Franta moving to kitchen
+Franta turned idle FEEDER 0
+Franta riding skateboard
+Standa wanted to use DRIER 1, but its not in this room 
+Standa moving to playing room
+Standa turned idle DRIER 1
+Matěj riding bike
+Karel wanted to use WASHING_MACHINE 0, but its not in this room 
+Karel moving to kitchen
+Karel turned off WASHING_MACHINE 0
+Matěj riding bike
+Franta wanted to use TV 0, but its not in this room 
+Franta moving to kitchen 1
+Franta turned idle TV 0
+Pepa riding skateboard
+Karel wanted to use PC 2, but its not in this room 
+Karel moving to sleeping room
+Karel turned idle PC 2
+Franta riding skateboard
+Matěj wanted to use FRIDGE 1, but its not in this room 
+Matěj moving to living room
+Matěj turned idle FRIDGE 1
+Karel riding bike
+Franta turned idle TV 0
+Franta riding bike
+Eva wanted to use PC 3, but its not in this room 
+Eva moving to playing room
+Eva turned idle PC 3
+Standa riding skateboard
+Karel wanted to use FEEDER 1, but its not in this room 
+Karel moving to kitchen
+Karel turned idle FEEDER 1
+Franta riding bike
+Eva wanted to use DRIER 2, but its not in this room 
+Eva moving to storage room
+Eva turned off DRIER 2
+Matěj riding skateboard
+Pepa wanted to use FEEDER 2, but its not in this room 
+Pepa moving to living room
+Pepa turned off FEEDER 2
+Eva riding skateboard
+Matěj wanted to use FRIDGE 0, but its not in this room 
+Matěj moving to kitchen
+Matěj used FRIDGE 0
+Standa riding bike
+Standa wanted to use FEEDER 4, but its not in this room 
+Standa moving to sleeping room
+Standa used FEEDER 4
+Pepa riding bike
+Eva wanted to use WASHING_MACHINE 0, but its not in this room 
+Eva moving to kitchen
+Eva used WASHING_MACHINE 0
+Pepa riding skateboard
+Standa turned idle PC 1
+Matěj riding bike
+Eva wanted to use DRIER 0, but its not in this room 
+Eva moving to kitchen 1
+Eva turned idle DRIER 0
+Eva riding skateboard
+Matěj wanted to use MICROWAVE 0, but its not in this room 
+Matěj moving to kitchen 1
+Matěj turned off MICROWAVE 0
+Franta riding skateboard
+Eva wanted to use PC 0, but its not in this room 
+Eva moving to living room
+Eva turned idle PC 0
+Karel riding skateboard
+Karel wanted to use FRIDGE 1, but its not in this room 
+Karel moving to living room
+Karel turned idle FRIDGE 1
+Franta riding bike
+Karel wanted to use FEEDER 0, but its not in this room 
+Karel moving to kitchen
+Karel turned off FEEDER 0
+Pepa riding bike
+Matěj wanted to use FEEDER 4, but its not in this room 
+Matěj moving to sleeping room
+Matěj used FEEDER 4
+Eva riding bike
+Eva wanted to use WASHING_MACHINE 0, but its not in this room 
+Eva moving to kitchen
+Eva turned idle WASHING_MACHINE 0
+Pepa riding skateboard
+Franta wanted to use WASHING_MACHINE 1, but its not in this room 
+Franta moving to storage room
+Franta used WASHING_MACHINE 1
+Eva riding bike
+Pepa wanted to use MICROWAVE 0, but its not in this room 
+Pepa moving to kitchen 1
+Pepa used MICROWAVE 0
+Karel riding bike
+Karel wanted to use PC 2, but its not in this room 
+Karel moving to sleeping room
+Karel turned idle PC 2
+Eva riding skateboard
+Franta wanted to use TV 1, but its not in this room 
+Franta moving to playing room
+Franta turned off TV 1
+Eva riding skateboard
+Karel wanted to use PC 3, but its not in this room 
+Karel moving to playing room
+Karel turned off PC 3
+Standa riding skateboard
+Pepa wanted to use DRIER 1, but its not in this room 
+Pepa moving to playing room
+Pepa turned off DRIER 1
+Eva riding bike
+Eva turned off WASHING_MACHINE 0
+Pepa riding bike
+Karel wanted to use FEEDER 1, but its not in this room 
+Karel moving to kitchen
+Karel turned off FEEDER 1
+Franta riding bike
+Karel wanted to use DRIER 2, but its not in this room 
+Karel moving to storage room
+Karel turned idle DRIER 2
+Karel riding skateboard
+Matěj wanted to use FRIDGE 1, but its not in this room 
+Matěj moving to living room
+Matěj used FRIDGE 1
+Pepa riding bike
+Standa turned idle FEEDER 4
+Pepa riding skateboard
+Franta wanted to use FEEDER 2, but its not in this room 
+Franta moving to living room
+Franta used FEEDER 2
+Standa riding bike
+Standa wanted to use FEEDER 3, but its not in this room 
+Standa moving to kitchen 1
+Standa used FEEDER 3
+Standa riding bike
+Pepa wanted to use WASHING_MACHINE 0, but its not in this room 
+Pepa moving to kitchen
+Pepa used WASHING_MACHINE 0
+Matěj riding skateboard
+Standa wanted to use FRIDGE 0, but its not in this room 
+Standa moving to kitchen
+Standa turned idle FRIDGE 0
+Standa riding skateboard
+Karel wanted to use FEEDER 2, but its not in this room 
+Karel moving to living room
+Karel turned off FEEDER 2
+Pepa riding bike
+Eva wanted to use TV 1, but its not in this room 
+Eva moving to playing room
+Eva used TV 1
+Matěj riding bike
+Matěj wanted to use MICROWAVE 0, but its not in this room 
+Matěj moving to kitchen 1
+Matěj turned idle MICROWAVE 0
+Franta riding bike
+Matěj wanted to use FEEDER 0, but its not in this room 
+Matěj moving to kitchen
+Matěj turned idle FEEDER 0
+Standa riding skateboard
+Karel wanted to use FEEDER 3, but its not in this room 
+Karel moving to kitchen 1
+Karel turned off FEEDER 3
+Eva riding bike
+Standa wanted to use WASHING_MACHINE 1, but its not in this room 
+Standa moving to storage room
+Standa turned idle WASHING_MACHINE 1
+Franta riding bike
+Franta wanted to use TV 1, but its not in this room 
+Franta moving to playing room
+Franta used TV 1
+Matěj riding bike
+
+Usage
+--------------------------------
+Eva used
+    DRIER 2, Times Used: 3
+    FEEDER 2, Times Used: 1
+    PC 1, Times Used: 1
+    WASHING_MACHINE 1, Times Used: 1
+    DRIER 0, Times Used: 2
+    PC 3, Times Used: 2
+    FEEDER 3, Times Used: 1
+    TV 1, Times Used: 1
+    TV 0, Times Used: 1
+    PC 0, Times Used: 3
+    WASHING_MACHINE 0, Times Used: 5
+    MICROWAVE 0, Times Used: 1
+Franta used
+    FEEDER 2, Times Used: 2
+    WASHING_MACHINE 1, Times Used: 2
+    PC 1, Times Used: 1
+    FEEDER 4, Times Used: 1
+    DRIER 0, Times Used: 1
+    PC 3, Times Used: 2
+    TV 1, Times Used: 2
+    TV 0, Times Used: 2
+    PC 0, Times Used: 1
+    FEEDER 0, Times Used: 2
+    MICROWAVE 1, Times Used: 1
+Pepa used
+    PC 2, Times Used: 1
+    FEEDER 2, Times Used: 1
+    WASHING_MACHINE 1, Times Used: 1
+    DRIER 0, Times Used: 1
+    PC 3, Times Used: 2
+    DRIER 1, Times Used: 1
+    TV 1, Times Used: 2
+    FEEDER 0, Times Used: 1
+    WASHING_MACHINE 0, Times Used: 1
+    FRIDGE 0, Times Used: 1
+    MICROWAVE 1, Times Used: 1
+    MICROWAVE 0, Times Used: 1
+Matěj used
+    DRIER 2, Times Used: 1
+    FEEDER 4, Times Used: 3
+    PC 3, Times Used: 2
+    DRIER 1, Times Used: 1
+    FRIDGE 1, Times Used: 2
+    FEEDER 0, Times Used: 2
+    FRIDGE 0, Times Used: 1
+    MICROWAVE 1, Times Used: 1
+    MICROWAVE 0, Times Used: 2
+Standa used
+    FEEDER 2, Times Used: 2
+    DRIER 2, Times Used: 1
+    FEEDER 1, Times Used: 1
+    PC 1, Times Used: 1
+    WASHING_MACHINE 1, Times Used: 1
+    DRIER 0, Times Used: 1
+    FEEDER 4, Times Used: 2
+    DRIER 1, Times Used: 1
+    FEEDER 3, Times Used: 1
+    FEEDER 0, Times Used: 1
+    PC 0, Times Used: 1
+    MICROWAVE 0, Times Used: 2
+    TV 1, Times Used: 1
+    FRIDGE 0, Times Used: 1
+Karel used
+    DRIER 2, Times Used: 2
+    PC 2, Times Used: 2
+    FEEDER 2, Times Used: 1
+    WASHING_MACHINE 1, Times Used: 1
+    FEEDER 1, Times Used: 2
+    DRIER 0, Times Used: 1
+    DRIER 1, Times Used: 1
+    PC 3, Times Used: 1
+    FEEDER 3, Times Used: 1
+    FRIDGE 1, Times Used: 1
+    WASHING_MACHINE 0, Times Used: 1
+    FEEDER 0, Times Used: 1

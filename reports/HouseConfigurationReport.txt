@@ -1,0 +1,59 @@
+House ID: 1
+    Floor level: 0
+        Room: kitchen
+            People [Adult Pepa, Adult Matěj]
+            Pets [CAT Snow, DOG Appa]
+            Device: FEEDER 0
+            Device: FEEDER 1
+            Device: FRIDGE 0
+            Device: WASHING_MACHINE 0
+            Window 0: blinds are down
+            Window 1: blinds are down
+            Sensor 0
+        Room: living room
+            People []
+            Pets []
+            Device: FEEDER 2
+            Device: FRIDGE 1
+            Device: PC 0
+            Window 2: blinds are up
+            Window 3: blinds are up
+            Window 4: blinds are up
+            Sensor 1
+    Floor level: 1
+        Room: kitchen 1
+            People [Child Karel]
+            Pets [DOG Spasitel]
+            Device: TV 0
+            Device: FEEDER 3
+            Device: MICROWAVE 0
+            Device: DRIER 0
+            Window 5: blinds are down
+            Window 6: blinds are down
+            Window 7: blinds are down
+            Sensor 2
+    Floor level: 2
+        Room: sleeping room
+            People []
+            Pets []
+            Device: FEEDER 4
+            Device: PC 1
+            Device: PC 2
+            Window 8: blinds are up
+            Sensor 3
+        Room: playing room
+            People [Adult Eva, Child Franta]
+            Pets []
+            Device: TV 1
+            Device: DRIER 1
+            Device: PC 3
+            Window 9: blinds are down
+            Sensor 4
+        Room: storage room
+            People [Adult Standa]
+            Pets []
+            Device: WASHING_MACHINE 1
+            Device: DRIER 2
+            Device: MICROWAVE 1
+            Window 10: blinds are down
+            Sensor 5

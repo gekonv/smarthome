@@ -1,0 +1,266 @@
+Events
+--------------------------------
+Sensor 5 detected SUNNY
+Window 10 rolling blinds down
+Sensor 5 detected WINDY
+Window 10 rolling blinds up
+Karel is crying
+Pepa is making Karel not cry
+Franta is crying
+Pepa is making Franta not cry
+Sensor 3 detected WINDY
+Window 8 rolling blinds up
+Karel is crying
+Standa is making Karel not cry
+PC 0 broke
+Pepa is fixing PC 0
+Pepa fixed PC 0
+Sensor 2 detected SUNNY
+Window 5 rolling blinds down
+Window 6 rolling blinds down
+Window 7 rolling blinds down
+Sensor 0 detected SUNNY
+Window 0 rolling blinds down
+Window 1 rolling blinds down
+TV 0 broke
+Matěj is fixing TV 0
+Matěj fixed TV 0
+Karel is crying
+Standa is making Karel not cry
+Karel is crying
+Pepa is making Karel not cry
+Sensor 0 detected WINDY
+Window 0 rolling blinds up
+Window 1 rolling blinds up
+Sensor 5 detected WINDY
+Window 10 rolling blinds up
+Sensor 3 detected WINDY
+Window 8 rolling blinds up
+Sensor 5 detected SUNNY
+Window 10 rolling blinds down
+FRIDGE 0 broke
+Eva is fixing FRIDGE 0
+Eva fixed FRIDGE 0
+PC 0 broke
+Standa is fixing PC 0
+Standa fixed PC 0
+Sensor 3 detected SUNNY
+Window 8 rolling blinds down
+Sensor 1 detected WINDY
+Window 2 rolling blinds up
+Window 3 rolling blinds up
+Window 4 rolling blinds up
+Sensor 3 detected WINDY
+Window 8 rolling blinds up
+Sensor 0 detected WINDY
+Window 0 rolling blinds up
+Window 1 rolling blinds up
+Sensor 1 detected WINDY
+Window 2 rolling blinds up
+Window 3 rolling blinds up
+Window 4 rolling blinds up
+Sensor 2 detected WINDY
+Window 5 rolling blinds up
+Window 6 rolling blinds up
+Window 7 rolling blinds up
+Sensor 0 detected WINDY
+Window 0 rolling blinds up
+Window 1 rolling blinds up
+Sensor 1 detected WINDY
+Window 2 rolling blinds up
+Window 3 rolling blinds up
+Window 4 rolling blinds up
+Sensor 5 detected WINDY
+Window 10 rolling blinds up
+Franta is crying
+Standa is making Franta not cry
+Sensor 5 detected WINDY
+Window 10 rolling blinds up
+Sensor 5 detected WINDY
+Window 10 rolling blinds up
+Sensor 2 detected SUNNY
+Window 5 rolling blinds down
+Window 6 rolling blinds down
+Window 7 rolling blinds down
+Karel is crying
+Matěj is making Karel not cry
+PC 0 broke
+Pepa is fixing PC 0
+Pepa fixed PC 0
+PC 2 broke
+Standa is fixing PC 2
+Standa fixed PC 2
+Sensor 5 detected WINDY
+Window 10 rolling blinds up
+Franta is crying
+Pepa is making Franta not cry
+Sensor 1 detected SUNNY
+Window 2 rolling blinds down
+Window 3 rolling blinds down
+Window 4 rolling blinds down
+Sensor 3 detected SUNNY
+Window 8 rolling blinds down
+Sensor 1 detected SUNNY
+Window 2 rolling blinds down
+Window 3 rolling blinds down
+Window 4 rolling blinds down
+PC 3 broke
+Standa is fixing PC 3
+Standa fixed PC 3
+Sensor 4 detected SUNNY
+Window 9 rolling blinds down
+Sensor 1 detected SUNNY
+Window 2 rolling blinds down
+Window 3 rolling blinds down
+Window 4 rolling blinds down
+Sensor 5 detected SUNNY
+Window 10 rolling blinds down
+Franta is crying
+Eva is making Franta not cry
+Sensor 4 detected WINDY
+Window 9 rolling blinds up
+FEEDER 4 broke
+Eva is fixing FEEDER 4
+Eva fixed FEEDER 4
+Sensor 0 detected SUNNY
+Window 0 rolling blinds down
+Window 1 rolling blinds down
+Sensor 3 detected SUNNY
+Window 8 rolling blinds down
+Sensor 3 detected SUNNY
+Window 8 rolling blinds down
+Karel is crying
+Eva is making Karel not cry
+Sensor 4 detected SUNNY
+Window 9 rolling blinds down
+Sensor 1 detected SUNNY
+Window 2 rolling blinds down
+Window 3 rolling blinds down
+Window 4 rolling blinds down
+FEEDER 2 broke
+Matěj is fixing FEEDER 2
+Matěj fixed FEEDER 2
+Sensor 5 detected SUNNY
+Window 10 rolling blinds down
+FEEDER 0 broke
+Eva is fixing FEEDER 0
+Eva fixed FEEDER 0
+PC 2 broke
+Pepa is fixing PC 2
+Pepa fixed PC 2
+DRIER 0 broke
+Pepa is fixing DRIER 0
+Pepa fixed DRIER 0
+Sensor 4 detected SUNNY
+Window 9 rolling blinds down
+Sensor 5 detected SUNNY
+Window 10 rolling blinds down
+DRIER 0 broke
+Pepa is fixing DRIER 0
+Pepa fixed DRIER 0
+Sensor 5 detected WINDY
+Window 10 rolling blinds up
+Franta is crying
+Eva is making Franta not cry
+FEEDER 0 broke
+Eva is fixing FEEDER 0
+Eva fixed FEEDER 0
+Sensor 3 detected SUNNY
+Window 8 rolling blinds down
+PC 3 broke
+Standa is fixing PC 3
+Standa fixed PC 3
+PC 2 broke
+Eva is fixing PC 2
+Eva fixed PC 2
+Sensor 5 detected SUNNY
+Window 10 rolling blinds down
+Sensor 4 detected SUNNY
+Window 9 rolling blinds down
+DRIER 0 broke
+Pepa is fixing DRIER 0
+Pepa fixed DRIER 0
+PC 2 broke
+Pepa is fixing PC 2
+Pepa fixed PC 2
+Sensor 1 detected WINDY
+Window 2 rolling blinds up
+Window 3 rolling blinds up
+Window 4 rolling blinds up
+Sensor 0 detected SUNNY
+Window 0 rolling blinds down
+Window 1 rolling blinds down
+Sensor 4 detected SUNNY
+Window 9 rolling blinds down
+Franta is crying
+Standa is making Franta not cry
+TV 1 broke
+Matěj is fixing TV 1
+Matěj fixed TV 1
+Sensor 2 detected SUNNY
+Window 5 rolling blinds down
+Window 6 rolling blinds down
+Window 7 rolling blinds down
+Sensor 1 detected WINDY
+Window 2 rolling blinds up
+Window 3 rolling blinds up
+Window 4 rolling blinds up
+Franta is crying
+Standa is making Franta not cry
+Sensor 2 detected SUNNY
+Window 5 rolling blinds down
+Window 6 rolling blinds down
+Window 7 rolling blinds down
+Sensor 3 detected WINDY
+Window 8 rolling blinds up
+Karel is crying
+Matěj is making Karel not cry
+FEEDER 3 broke
+Matěj is fixing FEEDER 3
+Matěj fixed FEEDER 3
+Karel is crying
+Pepa is making Karel not cry
+Sensor 4 detected SUNNY
+Window 9 rolling blinds down
+Franta is crying
+Standa is making Franta not cry
+Karel is crying
+Standa is making Karel not cry
+Sensor 3 detected WINDY
+Window 8 rolling blinds up
+Sensor 4 detected WINDY
+Window 9 rolling blinds up
+Sensor 1 detected WINDY
+Window 2 rolling blinds up
+Window 3 rolling blinds up
+Window 4 rolling blinds up
+Karel is crying
+Standa is making Karel not cry
+Karel is crying
+Pepa is making Karel not cry
+PC 3 broke
+Matěj is fixing PC 3
+Matěj fixed PC 3
+PC 1 broke
+Eva is fixing PC 1
+Eva fixed PC 1
+Sensor 4 detected WINDY
+Window 9 rolling blinds up
+Sensor 4 detected SUNNY
+Window 9 rolling blinds down
+Sensor 2 detected WINDY
+Window 5 rolling blinds up
+Window 6 rolling blinds up
+Window 7 rolling blinds up
+DRIER 0 broke
+Pepa is fixing DRIER 0
+Pepa fixed DRIER 0
+Franta is crying
+Matěj is making Franta not cry
+FEEDER 2 broke
+Matěj is fixing FEEDER 2
+Matěj fixed FEEDER 2
+Sensor 2 detected SUNNY
+Window 5 rolling blinds down
+Window 6 rolling blinds down
+Window 7 rolling blinds down

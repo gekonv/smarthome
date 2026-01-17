@@ -1,0 +1,25 @@
+Consumption Report:
+FEEDER 2: 50 kWh
+PC 2: 20 kWh
+DRIER 2: 60 kWh
+FEEDER 1: 25 kWh
+PC 1: 15 kWh
+WASHING_MACHINE 1: 60 kWh
+DRIER 0: 90 kWh
+FEEDER 4: 20 kWh
+FEEDER 3: 15 kWh
+DRIER 1: 30 kWh
+PC 3: 35 kWh
+FEEDER 0: 65 kWh
+WASHING_MACHINE 0: 60 kWh
+PC 0: 20 kWh
+MICROWAVE 1: 1 kWh
+MICROWAVE 0: 7 kWh
+FRIDGE 1: 60 kWh
+TV 1: 25 kWh
+TV 0: 10 kWh
+FRIDGE 0: 30 kWh
+
+Total consumption: 698 kWh
+Cost: 2,68 Kč/kWh
+You have to pay 1870,64Kč

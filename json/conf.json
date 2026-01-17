@@ -1,0 +1,115 @@
+{
+  "house": {
+    "id": 1
+  },
+  "floors": [
+    {
+      "level": 0
+    },
+    {
+      "level": 1
+    },
+    {
+      "level": 2
+    }
+  ],
+  "rooms": [
+    {
+      "floor": 0,
+      "name" : "kitchen",
+      "windows": 2,
+      "devices": ["FEEDER", "FEEDER", "FRIDGE", "WASHING_MACHINE"]
+    },
+    {
+      "floor": 0,
+      "name" : "living room",
+      "windows": 3,
+      "devices": ["FEEDER", "FRIDGE", "PC"]
+    },
+    {
+      "floor": 1,
+      "name" : "kitchen 1",
+      "windows": 3,
+      "devices": ["TV", "FEEDER", "MICROWAVE", "DRIER"]
+    },
+    {
+      "floor": 2,
+      "name" : "sleeping room",
+      "windows": 1,
+      "devices": ["FEEDER", "PC", "PC"]
+    },
+    {
+      "floor": 2,
+      "name" : "playing room",
+      "windows": 1,
+      "devices": ["TV", "DRIER", "PC"]
+
+    },
+    {
+      "floor": 2,
+      "name" : "storage room",
+      "windows": 1,
+      "devices": ["WASHING_MACHINE", "DRIER", "MICROWAVE"]
+    }
+  ],
+  "people": [
+    {
+      "room": "kitchen",
+      "name": "Pepa",
+      "adult": "yes"
+    },
+    {
+      "room": "kitchen",
+      "name": "Franta",
+      "adult": "no"
+    },
+    {
+      "room": "storage room",
+      "name": "Eva",
+      "adult": "yes"
+    },
+    {
+      "room": "kitchen 1",
+      "name": "Standa",
+      "adult": "yes"
+    },
+    {
+      "room": "living room",
+      "name": "Karel",
+      "adult": "no"
+    },
+    {
+      "room": "storage room",
+      "name": "Matěj",
+      "adult": "yes"
+    }
+  ],
+  "pets": [
+    {
+      "room": "kitchen",
+      "name": "Snow",
+      "type": "CAT"
+    },
+    {
+      "room": "kitchen",
+      "name": "Appa",
+      "type": "DOG"
+    },
+    {
+      "room": "kitchen 1",
+      "name": "Spasitel",
+      "type": "DOG"
+    }
+  ],
+  "equipment": [
+    {
+      "type": "bike"
+    },
+    {
+      "type": "skateboard"
+    },
+    {
+      "type": "bike"
+    }
+  ]
+}
